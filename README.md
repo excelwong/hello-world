@@ -3,5 +3,8 @@ Just  a hello world
 ##########
 hi buddies,
 
-this is the first time use Github.
+this is the first time using Github.
 and have a test about branch and commit.
+
+now have another test about pull and push.
+GOD bless me.
